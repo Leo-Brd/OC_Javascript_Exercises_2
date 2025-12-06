@@ -1,9 +1,8 @@
-# Projet 8 : Testez vos compétences, les algorithmes en Javascript
+OpenClassrooms React Developer formation : project 8
 
-Pour commencer le projet lancez la commande `npm install` qui installera les dépendences du projet.
-
-Ensuite vous pourrez réaliser les différents exercices.
-
-Pour vérifier que votre exercice est correctement réalisé vous n'avez qu'à lancer la commande `npm start` puis la commande `npm run test` vous verrez alors s'afficher l'application `Cypress`. Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous voulez lancer vos test.
-
-Si votre code est correctement réalisé alors les tests seront décrits en vert
+- I did 7 exercises on javascript and html bases
+- The exercises can be tested with cypress
+- To test the exercises, you need to launch the code on 8080 port with this command :
+  <br>"*npm run start*"
+- then you can run this one to launch cypress :
+  <br>"*npm run test*"
